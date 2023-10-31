@@ -38,7 +38,7 @@ I am Syed Annas Jawed, a FullStack Engineer based in Karachi, Pakistan working a
 <ul dir="auto">
    <li>Backend Engineer @<a href="https://codevative.com/" rel="nofollow">Codevative</a></li>
 <li>
-        Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" rel="nofollow">NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY, Karachi</a>, Class of 2022</li>
+        Bachelors of Science in Computer Science @<a href="https://www.neduet.edu.pk/" rel="nofollow">NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY, Karachi</a>, Class of 2022</li>
 
   <li>
         Information Technology Intern @<a href="http://www.kda.gos.pk/" rel="nofollow">KDA</a></li>
