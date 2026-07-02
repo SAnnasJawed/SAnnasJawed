@@ -2,9 +2,13 @@
 # 💫 Hi 👋, I'm Syed Annas
 **A passionate Software Engineer || Backend Developer || AI Enthusiast**
 
-- 🌱 **I’m currently Persuing:** Master in Artificial Intelligence
-- 📫 **How to reach me:** jawedsyedannas@gmail.com
-- ⚡ **Fun fact:** I Love Teach Python
+- 🎓 **Currently pursuing:** M.Sc. in Artificial Intelligence for Industrial Applications
+- 🔭 **Currently working on:** Deep Learning, Computer Vision & Robotics Projects
+- 🌱 **Currently learning:** Transformers, ROS2, System Design and MLOps
+- 💬 **Ask me about:** Python, AI, Deep Learning, Computer Vision, Docker and Backend Development
+- 🤝 **Open to:** AI Research, Software Engineering and Freelance Opportunities
+- 📫 **Reach me:** jawedsyedannas@gmail.com
+- ⚡ **Fun fact:** I enjoy exploring how AI, Robotics and Software Engineering come together.
 
 
 ## 🌐 Socials:
@@ -70,13 +74,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
 ## ⚙️ Backend Development
 
-![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
